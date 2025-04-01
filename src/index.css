@@ -10,9 +10,9 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  background: rgb(236, 241, 71);
+  background: rgb(164, 101, 46);
   border-radius: 10px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 4px 10px rgba(249, 247, 247, 0.1);
 }
 
 .inputs input {
@@ -36,12 +36,12 @@ body {
 }
 
 .controls button:first-child {
-  background: green;
-  color: white;
+  background: rgb(89, 196, 89);
+  color: rgb(0, 0, 0);
 }
 
 .controls button:last-child {
-  background: red;
+  background: rgb(249, 54, 54);
   color: white;
   .set-time-button {
     margin: 10px;
